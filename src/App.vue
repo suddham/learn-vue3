@@ -1,10 +1,9 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
   <SimpleForm/>
 </template>
 
 <script>
-import SimpleForm from "./components/SimpleForm";
+import SimpleForm from "./views/SimpleForm";
 
 export default {
     name: "App",
